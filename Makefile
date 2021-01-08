@@ -1,4 +1,4 @@
-NAME=udemy-ml-api
+NAME=my-first-app-udemy
 COMMIT_ID=$(shell git rev-parse HEAD)
 
 
